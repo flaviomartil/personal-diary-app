@@ -5,17 +5,26 @@ A beautiful and modern personal diary application built with React, TypeScript, 
 ## 🌟 Features
 
 - **User Authentication**
+  ![Imagem do WhatsApp de 2025-01-29 à(s) 10 43 27_87ebd735](https://github.com/user-attachments/assets/5ade6400-ceb8-4c2d-bc77-8bdbf07103b8)
+  ![Imagem do WhatsApp de 2025-01-29 à(s) 10 43 34_2be2dbc5](https://github.com/user-attachments/assets/4a9d0fff-3b70-4216-93a9-12cdec4a4a62)
+
   - Secure login and registration system
   - User-specific notes and data persistence
   - Protected routes for authenticated users
 
 - **Calendar Interface**
+  ![Imagem do WhatsApp de 2025-01-29 à(s) 10 43 06_6de0a3c5](https://github.com/user-attachments/assets/23cdfd4d-2f5a-498e-9f20-d5231fbe7e94)
+
   - Interactive calendar with month navigation
   - Visual indicators for days with notes
   - Proper handling of different month lengths
   - Highlights for current date and Sundays
 
 - **Note Management**
+  ![Imagem do WhatsApp de 2025-01-29 à(s) 10 43 12_db5cb61b](https://github.com/user-attachments/assets/91e2fc25-49c6-462a-a177-79156e5d07f0)
+  ![Imagem do WhatsApp de 2025-01-29 à(s) 10 43 20_d450060a](https://github.com/user-attachments/assets/e44153bd-d8da-4d85-9e0e-a187d5700f90)
+
+
   - Create and edit notes for any date
   - Delete notes with a single click
   - Rich text formatting
